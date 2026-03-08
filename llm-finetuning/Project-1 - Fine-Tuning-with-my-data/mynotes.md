@@ -1,3 +1,9 @@
+# Below is the link where I deployed the adapters in Hugging Face
+
+https://huggingface.co/vijayrajeshr/Llama-3.2-3B-Instruct-Vijay-Profile-LoRA-Adapter
+
+
+
 ### Mistakes I made :
 
 
