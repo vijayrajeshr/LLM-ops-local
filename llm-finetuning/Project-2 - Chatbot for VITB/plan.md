@@ -1,1 +1,0 @@
-I plan on to create a RAG-based chatbot for VIT BHOPAL UNIVERSITY ; and also to deploy it on streamlit or onrender platforms.
